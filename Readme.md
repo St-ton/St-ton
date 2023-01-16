@@ -1,5 +1,8 @@
-### Hello, my name is Stanislav 👋
-<h1 align="center">I'm Web Frontend Developer</h1>
+<h1 align="center">Hello 👋 My name is Stanislav </h1>
+<h2 align="center">I'm Web Frontend Developer</h2>
+
+### Contact me:   📫 [E-mail](<https://mailto:st.tonkikh@gmail.com>)</br>
+
 <!-- 🔭 I’m currently working on ...</br>
 🌱 I’m currently learning ...HTML, CSS, JS, React </br>
 👯 I’m looking to collaborate on ...</br>
@@ -10,8 +13,7 @@
 ⚡ Fun fact: ...</br> 
 [Profile Views](https://komarev.com/ghpvc/?username=your-github-antisedativ&color=blue&style=flat&label=Visitors)  -->
 
-### Contact me:   📫 [E-mail](<https://mailto:st.tonkikh@gmail.com>)
-
+XXL contributions in the last year</br>
 ![snake gif](https://github.com/St-ton/St-ton/blob/master/github-contribution-grid-snake.svg)
 
 <h3 align="left">Skills:</h3>
