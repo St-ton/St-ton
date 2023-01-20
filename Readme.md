@@ -17,6 +17,8 @@
 &nbsp;<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 </p>
 
+![codewars](https://www.codewars.com/users/rsschool_5e51f4a3bd29f381/badges/large)
+
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=st-ton&show_icons=true&locale=en&layout=compact" alt=""/></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=st-ton&" alt="" /></p>
@@ -24,8 +26,6 @@
 ![snake gif](https://github.com/St-ton/St-ton/blob/master/github-contribution-grid-snake.svg)
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=st-ton&show_icons=true&locale=en" alt="" /></p>
-
-
 
 <!-- 🔭 I’m currently working on ...</br>
 🌱 I’m currently learning ...HTML, CSS, JS, React </br>
