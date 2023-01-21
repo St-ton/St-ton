@@ -1,4 +1,4 @@
-<h1 align="center">Hello 👋 My name is Stanislav </h1>
+<h1 align="center">Hello 👋🤝 My name is Stanislav</h1>
 <h2 align="center">I'm Web Frontend Developer</h2>
 
 ### **📧📲 Contact Info**
@@ -26,7 +26,6 @@ DevOps Administration <br/>
 &nbsp;<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
 &nbsp;<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 </p>
-
 
 ![codewars](https://www.codewars.com/users/rsschool_5e51f4a3bd29f381/badges/large)
 
@@ -59,6 +58,7 @@ DevOps Administration <br/>
 - Deutsch - B2
 - Russian - native
 
+❤️... to be coninued
 
 <!-- 🔭 I’m currently working on ...</br>
 🌱 I’m currently learning ...HTML, CSS, JS, React </br>
