@@ -39,20 +39,19 @@ From 2012 to 2019 he was an entrepreneur - a chain of grocery stores, a travel a
 <a href="https://www.codewars.com/users/rsschool_5e51f4a3bd29f381" target="_blank" rel="noreferrer"> <img src="https://www.codewars.com/users/rsschool_5e51f4a3bd29f381/badges/large" alt="codewars"/></a>
 </div>
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=st-ton&show_icons=true&locale=en&layout=compact" alt=""/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=st-ton&&layout=compact" alt="" />
-</div><br/>
-
+<div align="left">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=st-ton&show_icons=true&locale=en&layout=compact" width="300"
+        height="150" alt=""/>
+<img src="https://github-readme-stats.vercel.app/api?username=st-ton&show_icons=true&locale=en" width="340" height="150"
+        />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=st-ton&&layout=compact" width="360" height="150"
+      alt="" />
+</div>
 
 <div align="left">
 
 ![snake gif](https://github.com/St-ton/St-ton/blob/master/github-contribution-grid-snake.svg)
-</div><br/>
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=st-ton&show_icons=true&locale=en" alt="" />
-</div><br/>
+</div>
 
 ### **🙍‍♂️🤝 Soft Skills**
 
