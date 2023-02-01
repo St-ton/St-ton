@@ -10,7 +10,7 @@
 **E-mail:** st.tonkich@gmail.com  <br/>
 **Telegram:** [ClubTravels](https://t.me/ClubTravels) <br/>
 **GuHub:** [St-ton](https://github.com/St-ton) <br/>
-**Linkedin:** [Stanislav Tonkich](https://www.linkedin.com/in/stanislav-tonkich-595747210/) <br/>
+**Linkedin:** [Stanislav Tonkich](https://linkedin.com/in/st-ton/) <br/>
 </div>
 
 ### **🗂🗄  Summary**
@@ -84,7 +84,15 @@ In 2022 returned to IT.</div><br/>
 - Russian - native
 <br/><br/>
 ❤️... to be coninued<br/>
+
+
+<div align="left" class="badge-base LI-profile-badge" data-locale="ru_RU" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="stanislav-tonkich-595747210" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://de.linkedin.com/in/stanislav-tonkich-595747210?trk=profile-badge">Stanislav Tonkich</a>
+
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+
 [Profile Views](https://komarev.com/ghpvc/?username=st-ton&color=lightgrey&style=plastic&label=Vs)<br/>
+
+</div>
 
 
 <!-- HTML/HTML5 * CSS(BEM * SASS/SCSS * Bootstrap) * JavaScript * React JS * Redux <br/>
