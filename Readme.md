@@ -1,5 +1,5 @@
 <h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">Hello! My name is Stanislav 🤝</h1>
-<h2 align="center">I'm Junior Frontend Web Developer / Entwickler</h2>
+<h2 align="center"> I'm Junior Frontend Web Developer / Entwickler *</h2>
 
 <!-- <h1 align="center">Hello 👋🤝 My name is Stanislav</h1> -->
 
@@ -8,9 +8,9 @@
 <div align="left">  
 
 **E-mail:** st.tonkich@gmail.com  <br/>
-**Telegram:** [ClubTravels](https://t.me/ClubTravels) <br/>
+**Telegram:** [Sten_ton](https://t.me/Sten_ton) <br/>
 **GuHub:** [St-ton](https://github.com/St-ton) <br/>
-**Linkedin:** [Stanislav Tonkich](https://linkedin.com/in/st-ton/) <br/>
+**Linkedin:** [St-ton](https://linkedin.com/in/st-ton/) <br/>
 </div>
 
 ### **🗂🗄  Summary**
@@ -26,10 +26,11 @@ In 2022 returned to IT.</div><br/>
 
 <div align="left">
 <a href="https://www.codewars.com/users/rsschool_5e51f4a3bd29f381" target="_blank" rel="noreferrer"> <img src="https://www.codewars.com/users/St-ton/badges/small" alt="codewars"/></a><br/>
-● Frontend : HTML/ HTML5 * CSS/ SCSS * Javascript * Pixel Perfect * Responsive Design * Bootstrap * Material UI * React * Redux * Gulp * Webpack … <br/>
-● Database : MySQL * MongoDB * MSSQL ... <br/>
+● Frontend-Basic : HTML/HTML5 * CSS/SCSS * Javascript * Pixel Perfect * Responsive Design * Bootstrap * Material UI ... <br/>
+● Frontend-Prof : React * Redux * Rest API * GraphQL * Gulp * Webpack ...<br/>
+● Database : MySQL * MongoDB * PostgreSQL ... <br/>
 ● PM Tools : Git * Github * Linux * Trello * Jira * VS Code * IntelliJ ... <br/>
-● Others : Figma *Adobe XD* Adobe Illustrator * Webflow …<br/>
+● Others : Figma * Adobe XD * Adobe Illustrator * Webflow ...<br/>
 👉📖... learning continues<br/><br/>
 <p><a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
 &nbsp;<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
@@ -71,11 +72,12 @@ In 2022 returned to IT.</div><br/>
 - Conflict resolution experience<br/>
 
 ### **📚🎓 Education**
-
-- Frontend Web Developer Course on the [Tel-Ran] (in progress)
-- Web Developer Course on the [Udemy] (in progress)
-- JavaScript Course on the [RS Schools] (in progress)
-- System Engineering on the Kyiv International University of Civil Aviation
+**High School-University** - System Engineering on the Kyiv International University of Civil Aviation<br/>
+**Course**<br/>
+- Frontend Web Developer Course on the [Tel-Ran](<https://tel-ran.de>) (in progress)
+- Web Developer Course (HTML, CSS, BEM, SASS) on the [Udemy](https://www.udemy.com/course/javascript_full/learn/lecture/14328446)
+- JavaScript Manual on [learnjavascript.ru](https://learn.javascript.ru/) (in progress)
+- JavaScript -Front-end Course on [RS Schools](https://rs.school/)  (in progress)
 
 ### **🌐🗣️ Languages**
 
@@ -87,11 +89,8 @@ In 2022 returned to IT.</div><br/>
 
 
 <div align="left" class="badge-base LI-profile-badge" data-locale="ru_RU" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="stanislav-tonkich-595747210" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://de.linkedin.com/in/stanislav-tonkich-595747210?trk=profile-badge">Stanislav Tonkich</a>
-
 <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
-
-[Profile Views](https://komarev.com/ghpvc/?username=st-ton&color=lightgrey&style=plastic&label=Vs)<br/>
-
+<!-- [Profile Views](https://komarev.com/ghpvc/?username=st-ton&color=lightgrey&style=plastic&label=Vs)<br/> -->
 </div>
 
 
