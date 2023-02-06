@@ -1,5 +1,5 @@
-<h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">Hello! My name is Stanislav 🤝</h1>
-<h2 align="center"> I'm Junior Frontend Web Developer / Entwickler *</h2>
+<h2 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">Hello! I'm Stanislav 🤝</h2>
+<h3 align="center"> Frontend Web Developer</h3>
 
 <!-- <h1 align="center">Hello 👋🤝 My name is Stanislav</h1> -->
 
@@ -11,24 +11,25 @@
 **Telegram:** [Sten_ton](https://t.me/Sten_ton) <br/>
 **GuHub:** [St-ton](https://github.com/St-ton) <br/>
 **Linkedin:** [St-ton](https://linkedin.com/in/st-ton/) <br/>
-</div>
+</div><br/>
 
 ### **🗂🗄  Summary**
 
 <div align="left">  
-After graduating from Kyiv International University of Civil Aviation in 1995, he worked as a programmer in a bank for 3 years.<br/>
-After that, I moved to the financial sector as a financial manager. In parallel i was engaged in network administration, installation and configuration of software, as well as training in its use by employees.<br/>
-From 2012 to 2019 i was an entrepreneur - a chain of grocery stores, a travel agency.<br/>
-In 2022 returned to IT.</div><br/>
-
+After graduating from Kyiv International University of Civil Aviation in 1995, I worked as a programmer in a bank for 3 years.<br/>
+After that, I moved to the financial sector as a financial manager. In parallel, I was engaged in network administration, installation and configuration of software, as well as training employees in its use.<br/>
+From 2000 to 2002 and from 2016 to 2018 I worked as a customer support engineer<br/>
+From 2012 to 2019 I was an entrepreneur - a chain of grocery stores, a travel agency.<br/>
+Returned to IT in 2022.<br/><br/></div>
 
 ### **🖥💻  Hard Skills**
 
 <div align="left">
-<a href="https://www.codewars.com/users/rsschool_5e51f4a3bd29f381" target="_blank" rel="noreferrer"> <img src="https://www.codewars.com/users/St-ton/badges/small" alt="codewars"/></a><br/>
+<a href="https://www.codewars.com/users/St-ton" target="_blank" rel="noreferrer"> <img src="https://www.codewars.com/users/St-ton/badges/small" alt="codewars"/></a></div>
+<div align="left">
 ● Frontend-Basic : HTML/HTML5 * CSS/SCSS * Javascript * Pixel Perfect * Responsive Design * Bootstrap * Material UI ... <br/>
 ● Frontend-Prof : React * Redux * Rest API * GraphQL * Gulp * Webpack ...<br/>
-● Database : MySQL * MongoDB * PostgreSQL ... <br/>
+● Database : MySQL * MongoDB * PostgreSQL * Redis ... <br/>
 ● PM Tools : Git * Github * Linux * Trello * Jira * VS Code * IntelliJ ... <br/>
 ● Others : Figma * Adobe XD * Adobe Illustrator * Webflow ...<br/>
 👉📖... learning continues<br/><br/>
