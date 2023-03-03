@@ -72,10 +72,10 @@ Returned to IT in 2022.</div>
 **High School-University** - System Engineering on the Kyiv International University of Civil Aviation<br/>
 
 **Courses**<br/>
-- Frontend Web Developer Course on the [Tel-Ran](<https://tel-ran.de>) (in progress)
+- Frontend Web Developer Course on the [Tel-Ran](<https://tel-ran.de>)
 - Web Developer Course (HTML, CSS, BEM, SASS) on the [Udemy](https://www.udemy.com/course/javascript_full/learn/lecture/14328446)
-- JavaScript Manual on [learnjavascript.ru](https://learn.javascript.ru/) (in progress)
-- JavaScript -Front-end Course on [RS Schools](https://rs.school/)  (in progress)
+- JavaScript + React Course on the [Udemy](https://www.udemy.com/course/javascript_full/)
+- JavaScript Manual on [learnjavascript.ru](https://learn.javascript.ru/)
 
 ### **🌐🗣️ Languages**
 
