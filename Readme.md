@@ -13,11 +13,12 @@
 ### **🗂🗄  Summary**
 
 <div align="left">  
-After graduating from Kyiv International University of Civil Aviation in 1995, I worked as a programmer in a bank for 3 years.<br/>
-After that, I moved to the financial sector as a financial manager. In parallel, I was engaged in network administration, installation and configuration of software, as well as training employees in its use.<br/>
-From 2000 to 2002 and from 2016 to 2018 I worked as a customer support engineer<br/>
+After graduating from Kyiv International University of Civil Aviation in (1990-1995), I worked as a programmer in a bank for 3 years.<br/>
+From 2000 to 2002 I worked as a customer support engineer<br/>
+After that (2002-2012) I moved to the financial sector as a financial manager. In parallel, I was engaged in network administration, installation and configuration of software, as well as training employees in its use.<br/>
 From 2012 to 2019 I was an entrepreneur - a chain of grocery stores, a travel agency.<br/>
-Returned to IT in 2022.</div>
+From 2016 to 2018 I worked as a customer support engineer<br/>
+Returned to IT as Frontend Webdeveloper in 2022.</div>
 
 ### **🖥💻  Hard Skills**
 
@@ -85,9 +86,10 @@ Returned to IT in 2022.</div>
 <br/><br/>
 ❤️... to be coninued<br/>
 
+<!--
 <div align="left" class="badge-base LI-profile-badge" data-locale="ru_RU" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="stanislav-tonkich-595747210" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://de.linkedin.com/in/stanislav-tonkich-595747210?trk=profile-badge">Stanislav Tonkich</a>
 <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
-<!-- [Profile Views](https://komarev.com/ghpvc/?username=st-ton&color=lightgrey&style=plastic&label=Vs)<br/> -->
+ [Profile Views](https://komarev.com/ghpvc/?username=st-ton&color=lightgrey&style=plastic&label=Vs)<br/> -->
 </div>
 
 <!-- HTML/HTML5 * CSS(BEM * SASS/SCSS * Bootstrap) * JavaScript * React JS * Redux <br/>
