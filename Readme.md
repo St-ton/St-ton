@@ -1,5 +1,11 @@
-<h2 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">Hello! I'm Stanislav 🤝</h2> 
-<h3 align="center"> Frontend Web Developer</h3>
+<h2 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">Hello!</h2> 
+
+<div align="center">
+
+### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=I'm+Stanislav+🤝+Frontend+Web+Developer!)](https://git.io/typing-svg)
+</div>
+
+<!-- <h3 align="center"> Frontend Web Developer</h3> -->
 
 ### **📧📲 Contact Info**
 
@@ -7,7 +13,7 @@
 
 **E-mail:** st.tonkich@gmail.com  <br/>
 **Telegram:** [Sten_ton](https://t.me/Sten_ton) <br/>
-**GuHub:** [St-ton](https://github.com/St-ton) <br/>
+**GitHub:** [St-ton](https://github.com/St-ton) <br/>
 **Linkedin:** [St-ton](https://linkedin.com/in/st-ton/)</div>
 
 ### **🗂🗄  Summary**
