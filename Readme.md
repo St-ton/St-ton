@@ -1,7 +1,8 @@
 <div align="center">
 <h2><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">Hello!</h2>
 
-### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=535&lines=I'm+Stanislav+🤝+Frontend+Web+Developer!)](https://git.io/typing-svg)
+### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=535&lines=I'm+Stanislav+🤝+Frontend+Web+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">+Developer!)](https://git.io/typing-svg)
+
 </div>
 
 ### **📧📲 Contact Info**
@@ -64,12 +65,14 @@ Returned to IT as Frontend Webdeveloper in 2022.</div>
 
 ### **🙋‍♂️🤝 Soft Skills**
 
-- I can work in a team<br/>
+- I like work in a team<br/>
 - I love to google<br/>
-- Communication skills<br/>
+- Communication and skills<br/>
 - Stress resistance<br/>
 - Responsibility<br/>
 - Conflict resolution experience<br/>
+- Fast problem solving<br/>
+- Organizational skill<br/>
 
 ### **📚🎓 Education**
 
@@ -89,11 +92,16 @@ Returned to IT as Frontend Webdeveloper in 2022.</div>
 <br/><br/>
 ❤️... to be coninued<br/>
 
+
+<div align="right"> <img src="https://komarev.com/ghpvc/?username=St-ton&label=Profile%20views&color=blueviolet&style=flat" alt="St-ton" /> 
+</div>
+
+
 <!--
 <div align="left" class="badge-base LI-profile-badge" data-locale="ru_RU" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="stanislav-tonkich-595747210" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://de.linkedin.com/in/stanislav-tonkich-595747210?trk=profile-badge">Stanislav Tonkich</a>
+
 <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
  [Profile Views](https://komarev.com/ghpvc/?username=st-ton&color=lightgrey&style=plastic&label=Vs)<br/> -->
-</div>
 
 <!-- HTML/HTML5 * CSS(BEM * SASS/SCSS * Bootstrap) * JavaScript * React JS * Redux <br/>
 MS SQL * MongoDB * Gulp * Webpack * Linux * Git * GitHub * VS Code * IntelliJ  <br/>
