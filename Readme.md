@@ -1,24 +1,26 @@
 <div align="center">
-</h2><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">HELLO!  HALLO!  MOIN! BONJOUR!  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h2>
+</h2>👋 HELLO!  HALLO!  MOIN! BONJOUR!  👋</h2>
 
+<div align="left">
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 
 ### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=640&lines=I'm+Stanislav+🤝+Frontend+Web+Developer!+💻)](https://git.io/typing-svg)
-
 </div>
 
+<div align="left">
 
 ### **📧📲 Contact Info**
-
-<div align="left">  
 
 **E-mail:** st.tonkich@gmail.com <br/>
 **Telegram:** [Sten_ton](https://t.me/Sten_ton) <br/>
 **GitHub:** [St-ton](https://github.com/St-ton) <br/>
-**Linkedin:** [St-ton](https://linkedin.com/in/st-ton/)</div>
+**Linkedin:** [St-ton](https://linkedin.com/in/st-ton/)
+</div>
+
+<div align="left">
 
 ### **🗂🗄  Summary**
 
-<div align="left">  
 After graduating from Kyiv International University of Civil Aviation in (1990-1995), I worked as a programmer in a bank for 3 years.<br/>
 From 2000 to 2002 I worked as a customer support engineer<br/>
 After that (2002-2012) I moved to the financial sector as a financial manager. In parallel, I was engaged in network administration, installation and configuration of software, as well as training employees in its use.<br/>
@@ -26,11 +28,14 @@ From 2012 to 2019 I was an entrepreneur - a chain of grocery stores, a travel ag
 From 2016 to 2018 I worked as a customer support engineer<br/>
 Returned to IT as Frontend Webdeveloper in 2022.</div>
 
+<div align="left">
+
 ### **🖥💻  Hard Skills**
 
-<div align="left">
 <a href="https://www.codewars.com/users/St-ton" target="_blank" rel="noreferrer"> <img src="https://www.codewars.com/users/St-ton/badges/small" alt="codewars"/></a></div>
+
 <div align="left">
+
 ● Frontend-Basic : HTML/HTML5 * CSS/SCSS * Javascript * Pixel Perfect * Responsive Design * Bootstrap * Material UI ... <br/>
 ● Frontend-Prof : React * Redux * Rest API * GraphQL * Gulp * Webpack ...<br/>
 ● Database : MySQL * MongoDB * PostgreSQL * Redis ... <br/>
@@ -63,7 +68,7 @@ Returned to IT as Frontend Webdeveloper in 2022.</div>
 <div align="left">
 
 ![snake gif](https://github.com/St-ton/St-ton/blob/master/github-contribution-grid-snake.svg)
-</div>
+
 
 ### **🙋‍♂️🤝 Soft Skills**
 
@@ -92,8 +97,10 @@ Returned to IT as Frontend Webdeveloper in 2022.</div>
 - Deutsch - B2
 - Russian - native
 <br/><br/>
-❤️... to be coninued<br/>
+❤️... to be coninued
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 
+</div>
 
 <div align="right"> <img src="https://komarev.com/ghpvc/?username=St-ton&label=Profile%20views&color=blueviolet&style=flat" alt="St-ton" /> 
 </div>
