@@ -1,10 +1,8 @@
 <div align="center">
-</h2>👋 HELLO!  HALLO!  MOIN! BONJOUR!  👋</h2>
+<h2> HELLO!  HALLO!  MOIN! BONJOUR! </h2>
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-<div align="left">
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-
-### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=640&lines=I'm+Stanislav+🤝+Frontend+Web+Developer!+💻)](https://git.io/typing-svg)
+### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=590&lines=👋+I'm+Stanislav+🤝+Frontend+Web+Developer+💻)](https://git.io/typing-svg)
 </div>
 
 <div align="left">
@@ -36,11 +34,11 @@ Returned to IT as Frontend Webdeveloper in 2022.</div>
 
 <div align="left">
 
-● Frontend-Basic : HTML/HTML5 * CSS/SCSS * Javascript * Pixel Perfect * Responsive Design * Bootstrap * Material UI ... <br/>
-● Frontend-Prof : React * Redux * Rest API * GraphQL * Gulp * Webpack ...<br/>
-● Database : MySQL * MongoDB * PostgreSQL * Redis ... <br/>
-● PM Tools : Git * Github * Linux * Trello * Jira * VS Code * IntelliJ ... <br/>
-● Others : Figma * Adobe XD * Adobe Illustrator * Webflow ...<br/>
+● Frontend-Basic : HTML/HTML5 *CSS/SCSS* Javascript *Pixel Perfect* Responsive Design *Bootstrap* Material UI ... <br/>
+● Frontend-Prof : React *Redux* Rest API *GraphQL* Gulp *Webpack ...<br/>
+● Database : MySQL* MongoDB *PostgreSQL* Redis ... <br/>
+● PM Tools : Git *Github* Linux *Trello* Jira *VS Code* IntelliJ ... <br/>
+● Others : Figma *Adobe XD* Adobe Illustrator * Webflow ...<br/>
 👉📖... learning continues<br/><br/>
 <p><a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
 &nbsp;<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
@@ -67,8 +65,7 @@ Returned to IT as Frontend Webdeveloper in 2022.</div>
 </div>
 <div align="left">
 
-![snake gif](https://github.com/St-ton/St-ton/blob/master/github-contribution-grid-snake.svg)
-
+![snake gif](https://github.com/St-ton/St-ton/blob/master/sten-snake.svg)
 
 ### **🙋‍♂️🤝 Soft Skills**
 
@@ -86,6 +83,7 @@ Returned to IT as Frontend Webdeveloper in 2022.</div>
 **High School-University** - System Engineering on the Kyiv International University of Civil Aviation<br/>
 
 **Courses**<br/>
+
 - Frontend Web Developer Course on the [Tel-Ran](<https://tel-ran.de>)
 - Web Developer Course (HTML, CSS, BEM, SASS) on the [Udemy](https://www.udemy.com/course/javascript_full/learn/lecture/14328446)
 - JavaScript + React Course on the [Udemy](https://www.udemy.com/course/javascript_full/)
@@ -97,14 +95,13 @@ Returned to IT as Frontend Webdeveloper in 2022.</div>
 - Deutsch - B2
 - Russian - native
 <br/><br/>
-❤️... to be coninued
+</div>
+<div align="center">
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-
+... to be coninued 
 </div>
-
-<div align="right"> <img src="https://komarev.com/ghpvc/?username=St-ton&label=Profile%20views&color=blueviolet&style=flat" alt="St-ton" /> 
+<div align="left"> <img src="https://komarev.com/ghpvc/?username=St-ton&label=Profile%20views&color=blueviolet&style=flat" alt="St-ton" />
 </div>
-
 
 <!--
 <div align="left" class="badge-base LI-profile-badge" data-locale="ru_RU" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="stanislav-tonkich-595747210" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://de.linkedin.com/in/stanislav-tonkich-595747210?trk=profile-badge">Stanislav Tonkich</a>
