@@ -65,7 +65,7 @@ Returned to IT as Frontend Webdeveloper in 2022.</div>
 </div>
 <div align="left">
 
-![snake gif](https://github.com/St-ton/St-ton/blob/master/sten-snake.svg)
+![sten-snake gif](https://github.com/St-ton/St-ton/blob/master/sten-snake.svg)
 
 ### **🙋‍♂️🤝 Soft Skills**
 
