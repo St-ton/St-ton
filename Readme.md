@@ -9,6 +9,7 @@
 
 ### **📧📲 Contact Info**
 
+**PORTFOLIO:** [WebEntwickler.Pro](https://webentwickler.pro)<br/>
 **E-mail:** st.tonkich@gmail.com <br/>
 **Telegram:** [Sten_ton](https://t.me/Sten_ton) <br/>
 **GitHub:** [St-ton](https://github.com/St-ton) <br/>
@@ -24,7 +25,7 @@ From 2000 to 2002 I worked as a customer support engineer<br/>
 After that (2002-2012) I moved to the financial sector as a financial manager. In parallel, I was engaged in network administration, installation and configuration of software, as well as training employees in its use.<br/>
 From 2012 to 2019 I was an entrepreneur - a chain of grocery stores, a travel agency.<br/>
 From 2016 to 2018 I worked as a customer support engineer<br/>
-Returned to IT as Frontend Webdeveloper in 2022.</div>
+Returned to Frontend Webdeveloping in 2022.</div>
 
 <div align="left">
 
