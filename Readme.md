@@ -10,7 +10,7 @@
 ### **📧📲 Contact Info**
 
 **PORTFOLIO:** [WebEntwickler.Pro](https://webentwickler.pro)<br/>
-**E-mail:** st.tonkich@gmail.com <br/>
+**E-mail:** sten.tonkich@webentwickler.pro <br/>
 **Telegram:** [Sten_ton](https://t.me/Sten_ton) <br/>
 **GitHub:** [St-ton](https://github.com/St-ton) <br/>
 **Linkedin:** [St-ton](https://linkedin.com/in/st-ton/)
@@ -20,12 +20,10 @@
 
 ### **🗂🗄  Summary**
 
-After graduating from Kyiv International University of Civil Aviation in (1990-1995), I worked as a programmer in a bank for 3 years.<br/>
-From 2000 to 2002 I worked as a customer support engineer<br/>
-After that (2002-2012) I moved to the financial sector as a financial manager. In parallel, I was engaged in network administration, installation and configuration of software, as well as training employees in its use.<br/>
-From 2012 to 2019 I was an entrepreneur - a chain of grocery stores, a travel agency.<br/>
-From 2016 to 2018 I worked as a customer support engineer<br/>
-Returned to Frontend Webdeveloping in 2022.</div>
+I'm an avid Web Developer with strengths in ReactJS, JavaScript, HTML, CSS, responsive design and working with APIs.<br/>
+With expertise in web development, I am confident in my ability to deliver quality work with meticulous attention to detail.<br/>
+I'm always looking for new challenges and would like to develop innovative web applications that improve the user experience while complying with the latest technologies. That's why I enjoy collaborating with other developers and always strive to learn from more experienced colleagues.<br/>
+As I am motivated to learn fast and take on new challenges as a Web Developer, I would like to be able to make a valuable contribution to your company and would be delighted to join your team.<br/>
 
 <div align="left">
 
