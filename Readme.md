@@ -33,11 +33,11 @@ As I am motivated to learn fast and take on new challenges as a Web Developer, I
 
 <div align="left">
 
-● Frontend-Basic : HTML/HTML5 *CSS/SCSS* Javascript *Pixel Perfect* Responsive Design *Bootstrap* Material UI ... <br/>
-● Frontend-Prof : React *Redux* Rest API *GraphQL* Gulp *Webpack ...<br/>
-● Database : MySQL* MongoDB *PostgreSQL* Redis ... <br/>
-● PM Tools : Git *Github* Linux *Trello* Jira *VS Code* IntelliJ ... <br/>
-● Others : Figma *Adobe XD* Adobe Illustrator * Webflow ...<br/>
+● Frontend-Basic : HTML/HTML5 * CSS/SCSS * JavaScript * Pixel Perfect * Responsive Design * Bootstrap * Material UI ... <br/>
+● Frontend-Prof : ReactJS * Redux * Rest API *  Gulp * Webpack ...<br/>
+● Database : MySQL * MongoDB * Redis ... <br/>
+● PM Tools : Git * Github * Linux * Trello * Jira * VS Code * IntelliJ ... <br/>
+● Others : Figma * Adobe XD * Adobe Illustrator * Webflow ...<br/>
 👉📖... learning continues<br/><br/>
 <p><a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
 &nbsp;<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
