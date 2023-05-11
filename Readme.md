@@ -2,17 +2,17 @@
 <h2> HELLO!  HALLO!  MOIN! BONJOUR! </h2>
 
 <!-- <img align="left" alt="Coding" width="140" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif"/> -->
-<img align="left" alt="Coding" width="140" src="https://webentwickler.pro/github/sten-dev.gif"/>
+<img align="left" alt="Coding" width="100" src="https://webentwickler.pro/github/sten-dev.gif"/>
 
 ### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=590&lines=👋+I'm+Stanislav+🤝+Frontend+Web+Developer+💻)](https://git.io/typing-svg)
-<br><br>
+<br>
 </div>
 
 <div align="left">
 
 ### **📧📲 Contact Info**
 
-**PORTFOLIO:** [WebEntwickler.Pro](https://webentwickler.pro)<b>r>
+**PORTFOLIO:** [WebEntwickler.Pro](https://webentwickler.pro)<br>
 **E-mail:** sten.tonkich@webentwickler.pro <br>
 **Telegram:** [Sten_ton](https://t.me/Sten_ton) <br>
 **GitHub:** [St-ton](https://github.com/St-ton) <br>
