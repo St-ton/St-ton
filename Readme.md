@@ -1,18 +1,22 @@
 <div align="center">
 <h2> HELLO!  HALLO!  MOIN! BONJOUR! </h2>
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+<!-- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> -->
+<!-- <img src="https://github.com/St-ton/St-ton/blob/master/assets/sten-cat.gif" width="30"> -->
+<!-- <img align="left" alt="Coding" width="140" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif"/> -->
+<img align="left" alt="Coding" width="140" src="https://github.com/St-ton/St-ton/blob/master/assets/sten-dev.gif"/>
 
 ### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=590&lines=👋+I'm+Stanislav+🤝+Frontend+Web+Developer+💻)](https://git.io/typing-svg)
+<br><br>
 </div>
 
 <div align="left">
 
 ### **📧📲 Contact Info**
 
-**PORTFOLIO:** [WebEntwickler.Pro](https://webentwickler.pro)<br/>
-**E-mail:** sten.tonkich@webentwickler.pro <br/>
-**Telegram:** [Sten_ton](https://t.me/Sten_ton) <br/>
-**GitHub:** [St-ton](https://github.com/St-ton) <br/>
+**PORTFOLIO:** [WebEntwickler.Pro](https://webentwickler.pro)<b>r>
+**E-mail:** sten.tonkich@webentwickler.pro <br>
+**Telegram:** [Sten_ton](https://t.me/Sten_ton) <br>
+**GitHub:** [St-ton](https://github.com/St-ton) <br>
 **Linkedin:** [St-ton](https://linkedin.com/in/st-ton/)
 </div>
 
@@ -64,7 +68,8 @@ As I am motivated to learn fast and take on new challenges as a Web Developer, I
 </div>
 <div align="left">
 
-![sten-snake gif](https://github.com/St-ton/St-ton/blob/master/sten-snake.svg)
+![sten-snake gif](https://github.com/St-ton/St-ton/blob/master/assets/sten-snake.svg)
+
 
 ### **🙋‍♂️🤝 Soft Skills**
 

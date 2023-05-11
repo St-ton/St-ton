@@ -1,6 +1,8 @@
 .gitignore
+11.md
 cv.md
 muster.md
 StaniWillis.md
-assets/
+assets/icons
+assets/img
 css/
