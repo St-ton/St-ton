@@ -1,9 +1,8 @@
 <div align="center">
 <h2> HELLO!  HALLO!  MOIN! BONJOUR! </h2>
-<!-- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> -->
-<!-- <img src="https://github.com/St-ton/St-ton/blob/master/assets/sten-cat.gif" width="30"> -->
+
 <!-- <img align="left" alt="Coding" width="140" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif"/> -->
-<img align="left" alt="Coding" width="140" src="https://github.com/St-ton/St-ton/blob/master/assets/sten-dev.gif"/>
+<img align="left" alt="Coding" width="140" src="https://webentwickler.pro/github/sten-dev.gif"/>
 
 ### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=590&lines=👋+I'm+Stanislav+🤝+Frontend+Web+Developer+💻)](https://git.io/typing-svg)
 <br><br>
@@ -101,8 +100,9 @@ As I am motivated to learn fast and take on new challenges as a Web Developer, I
 <br/><br/>
 </div>
 <div align="center">
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+<img src="https://webentwickler.pro/github/sten-cat.gif" width="30">
 ... to be coninued 
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </div>
 <div align="left"> <img src="https://komarev.com/ghpvc/?username=St-ton&label=Profile%20views&color=blueviolet&style=flat" alt="St-ton" />
 </div>
