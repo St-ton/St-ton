@@ -26,6 +26,5 @@ TypeScript · Next.js · React · Tailwind · Node.js · PostgreSQL · Docker ·
 
 - **Portfolio:** [webentwickler.pro](https://webentwickler.pro)
 - **LinkedIn:** [st-ton](https://linkedin.com/in/st-ton/)
-- **Telegram:** [Sten_ton](https://t.me/Sten_ton)
 
 </div>
